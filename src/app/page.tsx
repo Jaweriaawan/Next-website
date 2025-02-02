@@ -8,7 +8,7 @@ export default function Intro(){
   return <div className="font-sans">
     <Image src={backgroundImage} alt="" className="w-full h-[100vh] relative" />
     <Header />
-    <div className="w-[400px] h-[200px] bg-black absolute mt-[-750px] ml-[750px] opacity-65 text-center pt-[40px]">
+    <div className="w-[400px] h-[200px] bg-black absolute mt-[-700px] ml-[600px] opacity-65 text-center pt-[40px]">
        <p className="font-bold text-5xl text-white">Antique Cafe</p>
        <p className="text-[20px] text-[#C4A484] mt-[20px]">Your daily energy booster</p>
     </div>
