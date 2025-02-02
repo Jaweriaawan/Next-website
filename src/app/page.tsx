@@ -12,10 +12,10 @@ export default function Intro(){
        <p className="font-bold text-5xl text-white">Antique Cafe</p>
        <p className="text-[20px] text-[#C4A484] mt-[20px]">Your daily energy booster</p>
     </div>
-    <div className="w-[400px] h-[230px] ml-[600px] bg-black mt-[-540px] absolute opacity-65 px-[15px] pt-[30px]">
+    <div className="w-[400px] h-[230px] ml-[600px] bg-black mt-[-490px] absolute opacity-65 px-[15px] pt-[30px]">
       <p className="text-[18px] text-white">Welcome to Antique Cafe – where every sip tells a story and every corner whispers nostalgia. Step in, unwind, and let the aroma of freshly brewed coffee take you on a journey through time.</p>
     </div>
-    <div className="w-[250px] h-[60px] bg-black opacity-75 mt-[-295px] ml-[680px] text-[#C4A484] flex px-[40px] text-center pt-[13px] gap-[15px]">
+    <div className="w-[250px] h-[60px] bg-black opacity-75 mt-[-270px] ml-[680px] text-[#C4A484] flex px-[40px] text-center pt-[13px] gap-[15px]">
     <RiCupFill className="w-[35px] h-[35px]" />
     <p className="text-[20px] ">Let's explore</p>
     </div>
