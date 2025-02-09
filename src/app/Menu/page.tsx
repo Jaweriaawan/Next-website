@@ -82,11 +82,11 @@ export default function Menu() {
         <div className="w-full md:w-1/2 bg-[#644937] rounded-[20px] p-4 md:p-6 grid gap-4">
           {/* Iced Cappuccino */}
           <div className="flex items-center gap-4">
-            <div>
-              <p className="text-lg md:text-xl text-[#352820] font-semibold ml-[200px]">
+            <div className="ml-8 md:ml-[200px]">
+              <p className="text-lg md:text-xl text-[#352820] font-semibold">
                 Iced Cappuccino
               </p>
-              <p className="text-black ml-[200px]">$29</p>
+              <p className="text-black">$29</p>
             </div>
             <Image
               src={four}
@@ -97,11 +97,11 @@ export default function Menu() {
 
           {/* Iced Americano */}
           <div className="flex items-center gap-4">
-            <div>
-              <p className="text-lg md:text-xl text-[#352820] font-semibold ml-[200px]">
+            <div className="ml-8 md:ml-[200px]">
+              <p className="text-lg md:text-xl text-[#352820] font-semibold">
                 Iced Americano
               </p>
-              <p className="text-black ml-[200px]">$180</p>
+              <p className="text-black">$180</p>
             </div>
             <Image
               src={five}
@@ -112,11 +112,11 @@ export default function Menu() {
 
           {/* Iced Milky Latte */}
           <div className="flex items-center gap-4">
-            <div>
-              <p className="text-lg md:text-xl text-[#352820] font-semibold ml-[200px]">
+            <div className="ml-8 md:ml-[200px]">
+              <p className="text-lg md:text-xl text-[#352820] font-semibold">
                 Iced Milky Latte
               </p>
-              <p className="text-black ml-[200px]">$18</p>
+              <p className="text-black">$18</p>
             </div>
             <Image
               src={six}
